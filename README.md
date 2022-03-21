@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @PradoPaula
+- 👋 Olá, sou @PradoPaula
 - 🌱 Estou aprendendo programação
+- 
 
 
 <!---
