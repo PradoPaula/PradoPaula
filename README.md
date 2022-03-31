@@ -1,5 +1,7 @@
 - 👋 Olá, sou @PradoPaula
-- 🌱 Estou aprendendo programação
+- 🌱 Estou aprendendo programação]
+- Sou Engenheira Florestal e Segurança do Trabalho, pós graduanda em Análise de Dados;
+- Segunda graduação em andamento em Sistemas de Informação
  
 
 
