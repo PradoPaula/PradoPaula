@@ -1,11 +1,9 @@
-- 👋 Olá, sou @PradoPaula
-- 🌱 Estou aprendendo programação
-- Sou Engenheira Florestal e Segurança do Trabalho, pós graduanda em Análise de Dados;
-- Segunda graduação em andamento em Sistemas de Informação
- 
+#Olá, sou @PradoPaula# 👋
+Sou Engenheira Florestal, pós graduanda em Eng. de Segurança do Trabalho e em Análise de Dados. Além disso, estou cursando Sistemas de Informação como segunda graduação.
 
+ 💻 Estou apaixonada pelo mundo da programação e estou sempre buscando novas oportunidades de aprendizado e crescimento nessa área.
 
-<!---
-PradoPaula/PradoPaula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Neste perfil do GitHub, você encontrará alguns dos meus projetos e experimentos relacionados à programação, análise de dados e outras áreas de interesse. Sinta-se à vontade para explorar os repositórios e fornecer feedback ou sugestões.
+
+Fique à vontade para entrar em contato comigo para discussões, colaborações ou apenas para dizer olá. Estou aberta a oportunidades de aprendizado e crescimento.
+🚀
