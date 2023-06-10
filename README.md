@@ -1,4 +1,4 @@
-"#Olá, sou @PradoPaula"👋
+# Olá, sou @PradoPaula👋
 
 Sou Engenheira Florestal, pós graduanda em Eng. de Segurança do Trabalho e em Análise de Dados. Além disso, estou cursando Sistemas de Informação como segunda graduação.
 
